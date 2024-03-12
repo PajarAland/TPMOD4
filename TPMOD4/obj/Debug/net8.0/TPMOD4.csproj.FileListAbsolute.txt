@@ -1,0 +1,14 @@
+C:\Users\alienware\source\repos\TPMOD4\TPMOD4\bin\Debug\net8.0\TPMOD4.exe
+C:\Users\alienware\source\repos\TPMOD4\TPMOD4\bin\Debug\net8.0\TPMOD4.deps.json
+C:\Users\alienware\source\repos\TPMOD4\TPMOD4\bin\Debug\net8.0\TPMOD4.runtimeconfig.json
+C:\Users\alienware\source\repos\TPMOD4\TPMOD4\bin\Debug\net8.0\TPMOD4.dll
+C:\Users\alienware\source\repos\TPMOD4\TPMOD4\bin\Debug\net8.0\TPMOD4.pdb
+C:\Users\alienware\source\repos\TPMOD4\TPMOD4\obj\Debug\net8.0\TPMOD4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alienware\source\repos\TPMOD4\TPMOD4\obj\Debug\net8.0\TPMOD4.AssemblyInfoInputs.cache
+C:\Users\alienware\source\repos\TPMOD4\TPMOD4\obj\Debug\net8.0\TPMOD4.AssemblyInfo.cs
+C:\Users\alienware\source\repos\TPMOD4\TPMOD4\obj\Debug\net8.0\TPMOD4.csproj.CoreCompileInputs.cache
+C:\Users\alienware\source\repos\TPMOD4\TPMOD4\obj\Debug\net8.0\TPMOD4.dll
+C:\Users\alienware\source\repos\TPMOD4\TPMOD4\obj\Debug\net8.0\refint\TPMOD4.dll
+C:\Users\alienware\source\repos\TPMOD4\TPMOD4\obj\Debug\net8.0\TPMOD4.pdb
+C:\Users\alienware\source\repos\TPMOD4\TPMOD4\obj\Debug\net8.0\TPMOD4.genruntimeconfig.cache
+C:\Users\alienware\source\repos\TPMOD4\TPMOD4\obj\Debug\net8.0\ref\TPMOD4.dll
